@@ -1,0 +1,23 @@
+﻿.carousel-content2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 30px;
+    font-family: 'Open Sans';
+}
+.carousel-content1 {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 30px;
+    font-family: 'Open Sans';
+}
+.img{
+    width:100%;
+    height:350px;
+}
+
